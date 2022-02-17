@@ -1,11 +1,15 @@
 Ravi Sharma
 
 Contact No: +91 8588049110 
-Email : ravi.in.ac@gmail.com 
+
+Email : ravi.in.ac@gmail.com
+
 Linkedin : linkedin.com/in/ravi-t05 
+
 Kaggle : kaggle.com/ravisharama 
 
 About me
+
 Since beginning my journey as a Web Developer nearly 2 Years ago. I have done remote work for agencies, consulted for start-ups, and collaborated with talented people to create digital products for both Business and Consumer use. Solving business problems with the new era of learning i.e., through Artificial Intelligence becoming my passion, therefore, I’m enjoying my current role as Data Scientist or Machine Learning Engineer
 
 Objective 
